@@ -6,4 +6,4 @@ sex TEXT,
 color TEXT,
 temperament TEXT,
 alive BOOLEAN
-):
+);
